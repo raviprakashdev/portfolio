@@ -1,0 +1,9 @@
+.left{
+float: right;
+}
+.padd
+{
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-left: 50px;
+}
