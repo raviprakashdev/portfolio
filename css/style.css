@@ -1,9 +1,102 @@
-.left{
-float: right;
+.left
+{
+    float: right;
+}
+.collapse
+{
+    float: right;
 }
 .padd
 {
-    padding-left: 2px;
-    padding-right: 2px;
-    margin-left: 50px;
+    padding-left: 15px;
+    padding-right:15px;
+}
+.opac
+{
+    opacity: 0.9;
+}
+.fnt
+{
+    font-size: 1.1em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.bgimg{
+    background-image:url(../images/fotis-fotopoulos-790373-unsplash.jpg);
+/*    background-color:grey;*/
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+/*
+     filter: blur(5px);
+  -webkit-filter: blur(5px);
+    z-index: 15;
+*/
+}
+.index
+{
+    z-index: 12;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    
+    
+}
+.index h1 {
+    
+    font-size: 5em;
+}
+.index p{
+    
+    font-size: 1.5em;
+}
+.bd
+{
+    border-top: 2px dotted;
+    border-bottom: 2px dotted;
+    padding: 25px;
+}
+.img
+{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+}
+.box
+{
+ display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.lnk
+{
+    display: inline;
+    
+}
+.logo
+{
+    font-size: 60px; color: lightgrey; padding: 20px;
+    
+}
+.line
+{
+    border-top: 2px solid;
+}
+.big a 
+{
+    font-size: 60px;
+    color: darkgrey;
+}
+.back{
+    background-image: url(../images/abstract-attractive-backdrop-988872.jpg)
+}
+.skills
+{
+    background-image: url(../images/abstract-ancient-antique-235985.jpg);
+    background-size: 100% 100%;
+    
 }
