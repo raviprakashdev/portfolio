@@ -6,7 +6,7 @@
 {
     float: right;
 }
-.padd
+.pdd
 {
     padding-left: 15px;
     padding-right:15px;
@@ -28,11 +28,7 @@
     background-attachment: fixed;
     width: 100%;
     height: 800px;
-/*
-     filter: blur(5px);
-  -webkit-filter: blur(5px);
-    z-index: 15;
-*/
+
 }
 .index
 {
@@ -96,10 +92,8 @@
     background-image: url(../images/abstract-attractive-backdrop-988872.jpg)
 }
 .skills
-/*
 {
-    background-image: url(../images/abstract-ancient-antique-235985.jpg);
-*/
+/*    background-image: url(../images/abstract-ancient-antique-235985.jpg);*/
     background-size: 100% 100%;
     
 }
@@ -107,7 +101,8 @@
 {
     height: 200px;
     width: 200px;
-    border-radius: 50%; 
+    border-radius: 50%;
+    
 }
 .fnt:hover
 {
@@ -128,6 +123,16 @@
 .fc
 {
     color: white;
+}
+.padd 
+{
+    padding: 20px;
+}
+.padd li
+{
+    padding: 22px;
+    font-size: 1.5em;
+    list-style-image: url(../images/Ellipse%201.png);
 }
 
 
