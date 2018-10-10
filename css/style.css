@@ -21,7 +21,8 @@
     font-family: 'Roboto Condensed', sans-serif;
 }
 .bgimg{
-    background-image:url(../images/fotis-fotopoulos-790373-unsplash.jpg);
+    background-image:url(../images/astronomy-constellation-dark-998641.jpg);
+/*    background:linear-gradient(black,#414345);*/
 /*    background-color:grey;*/
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -84,7 +85,7 @@
 }
 .line
 {
-    border-top: 2px solid;
+    border-top: 2px solid #f5ab35;
 }
 .big a 
 {
@@ -95,8 +96,10 @@
     background-image: url(../images/abstract-attractive-backdrop-988872.jpg)
 }
 .skills
+/*
 {
     background-image: url(../images/abstract-ancient-antique-235985.jpg);
+*/
     background-size: 100% 100%;
     
 }
@@ -110,6 +113,21 @@
 {
     background-color: black;
     
+}
+.skill
+{
+  
+  
+    height: 450px;
+    width: 100%;
+}
+.dark
+{
+     background:linear-gradient(black,#414345);
+}
+.fc
+{
+    color: white;
 }
 
 
