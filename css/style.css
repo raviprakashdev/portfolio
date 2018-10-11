@@ -68,6 +68,7 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 10px;
+    padding-top: 60px;
 }
 .lnk
 {
@@ -136,7 +137,7 @@
 }
 #about
 {
-    height: 450px;
+    height: 580px;
     width: 100%;
     
 }
@@ -144,9 +145,30 @@
 {
     font-size: 1.3em;
 }
-.row
+.marg
 {
-    margin-top: 20px;
+    padding-top: 40px;
+/*    padding-bottom: 40px;*/
+}
+.quo
+{
+  color: #fabe58;
+    height: 90px;
+    width: 630px;
+/*    padding: 40px;*/
+    margin-top: 60px;
+    
+}
+.blockquote
+{
+    font-size: 1.9em !important;
+    font-family: 'Charmonman', cursive !important;
+}
+.image
+{
+    height: 100%;
+    width: 100%;
+    
 }
 
 
