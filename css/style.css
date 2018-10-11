@@ -134,5 +134,19 @@
     font-size: 1.5em;
     list-style-image: url(../images/Ellipse%201.png);
 }
+#about
+{
+    height: 450px;
+    width: 100%;
+    
+}
+.fnm
+{
+    font-size: 1.3em;
+}
+.row
+{
+    margin-top: 20px;
+}
 
 
