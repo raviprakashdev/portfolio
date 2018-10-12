@@ -55,6 +55,9 @@
     border-top: 2px dotted;
     border-bottom: 2px dotted;
     padding: 25px;
+    height: 200px;
+    text-align: center;
+    
 }
 .img
 {
@@ -73,6 +76,7 @@
 .lnk
 {
     display: inline;
+/*    height: 40px;*/
     
 }
 .logo
@@ -144,6 +148,8 @@
 .fnm
 {
     font-size: 1.3em;
+    font-family: 'Source Code Pro', monospace;
+    
 }
 .marg
 {
@@ -170,5 +176,10 @@
     width: 100%;
     
 }
+.fmm
+{
+    font-family: 'Lora', serif;
+}
+
 
 
