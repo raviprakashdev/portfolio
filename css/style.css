@@ -118,7 +118,7 @@
 {
   
   
-    height: 450px;
+    height: 100%;
     width: 100%;
 }
 .dark
@@ -141,7 +141,7 @@
 }
 #about
 {
-    height: 580px;
+    height: 100%;
     width: 100%;
     
 }
@@ -159,8 +159,8 @@
 .quo
 {
   color: #fabe58;
-    height: 90px;
-    width: 630px;
+    height: 100%;
+    width: 100%;
 /*    padding: 40px;*/
     margin-top: 60px;
     
