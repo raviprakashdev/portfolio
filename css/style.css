@@ -106,9 +106,11 @@
 }
 .img:hover
 {
-    height: 200px;
-    width: 200px;
+/*    height: 200px;*/
+/*    width: 200px;*/
     border-radius: 50%;
+    transform: scale(1.2);
+    
     
 }
 .fnt:hover
